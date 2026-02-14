@@ -23,7 +23,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.3",
     "@tailwindcss/forms": "0.2.1",
-    "browser-sync": "2.26.14",
+    "browser-sync": "3.0.0",
     "tailwindcss": "2.0.4"
   },
   "devDependencies": {
